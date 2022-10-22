@@ -61,6 +61,12 @@ df.head()
 app = JupyterDash(__name__)
 
 
+# In[ ]:
+
+
+server = app.server
+
+
 # In[37]:
 
 
